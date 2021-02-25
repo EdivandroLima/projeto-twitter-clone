@@ -8,11 +8,12 @@ Este projeto foi feito em um curso de desenvolvimento web para o estudo e práti
 - Criando a Timeline, incluindo e listando Tweets
 - Pesquisando por outros usuários
 - Seguindo e deixando de seguir outros usuários
-- Exibi tweets de outros usuários na timeline
+- Exibir tweets de outros usuários na timeline
 
 ## Algumas Ferramentas Utilizadas no Projeto
 - [x] HTML5
 - [x] Bootstrap
+- [x] Font Awesome
 - [x] Composer
 - [x] PHP 7
 - [x] MySQL
